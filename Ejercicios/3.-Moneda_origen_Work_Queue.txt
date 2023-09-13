@@ -1,0 +1,9 @@
+Resultado = 28.50
+Resultado = 11.40
+Resultado = 31.35
+Resultado = 3.80
+Resultado = 3.283
+Resultado = 3.760
+Resultado = 94.50
+Resultado = 202.70
+Resultado = 425.80

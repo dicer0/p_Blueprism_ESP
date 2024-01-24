@@ -11,4 +11,4 @@ And this specific repository contains documentation about the Blueprism platform
 <br/>
 &nbsp;
 
-[![Altium Designer](http://dicer0.com/wp-content/uploads/2023/11/p_BluePrism.png)](https://dicer0.com/#skills)
+[![Blueprism RPA](http://dicer0.com/wp-content/uploads/2023/11/p_BluePrism.png)](https://dicer0.com/#skills)
